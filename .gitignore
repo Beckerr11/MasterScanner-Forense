@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.log
+*.dmp
+*.dump
+*.raw
+reports/
+artifacts/
+dist/
+build/
+*.spec
+.DS_Store
+.vscode/
